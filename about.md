@@ -13,4 +13,3 @@ Just a website for me to share some cool pictures and diagrams.
 ### Contact me
 
 https://www.instagram.com/kevflume/
-[comment]: <> ([email@domain.com](mailto:email@domain.com))
