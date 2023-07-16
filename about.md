@@ -6,10 +6,10 @@ permalink: /about/
 
 Just a website for me to share some cool pictures and diagrams.
 
-[comment]: <> (### More Information)
+### More Information
 
-[comment]: <> (A place to include any other types of information that you'd like to include about yourself.)
+powered by Jekyll Now
 
 ### Contact me
 
-https://www.instagram.com/kevflume/
+@kevflume
