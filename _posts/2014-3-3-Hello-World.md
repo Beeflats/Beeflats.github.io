@@ -1,10 +1,21 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome
+date: 2023-07-17
+author: beeflats
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I like science and art. You can peek into my thoughts through this site. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+These are some projects I have in mind:
+- Machine learning for chemistry
+- Raytracer
+- Simulations of soft matter
+- Quantum algorithms
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+My thesis is on fractional calculus. Some topics I believe to be important are 
+- statistical mechanics and thermodynamics and their applications in neural networks, swarm intelligence, and material science
+- non-classical computing paradigms such as membrane computing, chemical computing, quantum computing or DNA computing
+- continuum mechanics for biological and material modelling
+- topology and geometry for improving neural networks, modelling memory, physics, computer graphics and computer vision
+- general physics: classical mechanics, electromagnetism, quantum mechanics, quantum field theory, condensed matter physics, special and general relativity, and particle physics
