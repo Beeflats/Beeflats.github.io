@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Just a website for me to share some cool pictures and diagrams.
 
-### More Information
+[comment]: <> (### More Information)
 
-A place to include any other types of information that you'd like to include about yourself.
+[comment]: <> (A place to include any other types of information that you'd like to include about yourself.)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+https://www.instagram.com/kevflume/
+[comment]: <> ([email@domain.com](mailto:email@domain.com))
